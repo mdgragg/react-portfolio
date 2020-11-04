@@ -56,6 +56,7 @@ div div .modal-content  {
   position: absolute;
   top: 0px;
   left: 200px;
+  height: 100%;
 }
 
 .modal-content .modal-title  {
@@ -86,7 +87,6 @@ div .project-button {
   margin: 5px 10px 5px 0px;
   cursor: pointer;
   border: none;
-
 }
 div .project-button:hover {
   background: #051238;
@@ -98,6 +98,9 @@ div .close-button {
   margin: 5px 10px 5px 0px;
   cursor: pointer;
   border: none;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
 div .close-button:hover {
   background: #6A7696;
