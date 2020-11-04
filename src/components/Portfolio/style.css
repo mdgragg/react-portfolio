@@ -1,15 +1,15 @@
 .work-title {
-    background: #051238;
-    color: white;
-    margin-top: 0px;
-    padding: 5px;
-    width: 100%;
-    text-align: center;
-    border-left: #6A7696 solid 5px;
-    border-right: #6A7696 solid 5px;
-    border-top: none;
-    border-bottom: #6A7696 solid 5px;
-    cursor: pointer;
+  background: #051238;
+  color: white;
+  margin-top: 0px;
+  padding: 5px;
+  width: 100%;
+  text-align: center;
+  border-left: #6A7696 solid 5px;
+  border-right: #6A7696 solid 5px;
+  border-top: none;
+  border-bottom: #6A7696 solid 5px;
+  cursor: pointer;
 }
 .work-title:hover {
   color: #6A7696;
@@ -68,14 +68,36 @@ div div .modal-content  {
 }
 
 .work-imagebox {
-position: relative;
-text-align: center;
-color: white;
-border-left: #6A7696 solid 5px;
-border-right: #6A7696 solid 5px;
-border-top: #6A7696 solid 5px;
-border-bottom: none;
+  position: relative;
+  text-align: center;
+  color: white;
+  border-left: #6A7696 solid 5px;
+  border-right: #6A7696 solid 5px;
+  border-top: #6A7696 solid 5px;
+  border-bottom: none;
 
+}
+div .project-button {
+  background: #051238;
+  padding: 10px;
+  margin: 5px 10px 5px 0px;
+  cursor: pointer;
+  border: none;
+}
+div .project-button:hover {
+  background: #051238;
+  opacity: .7;
+}
+div .close-button {
+  background: #6A7696;
+  padding: 10px;
+  margin: 5px 10px 5px 0px;
+  cursor: pointer;
+  border: none;
+}
+div .close-button:hover {
+  background: #6A7696;
+  opacity: .7;
 }
 
 @media only screen and (max-width: 600px) {

@@ -30,13 +30,13 @@ function Project(prop) {
         <p className="desc">{prop.description}</p>
         
        
-          <Button className="project-button" href={prop.deployed} className="" target="_blank" >
+          <Button className="project-button" href={prop.deployed} target="_blank" >
               Site Link
           </Button>
-          <Button className="project-button" href={prop.repo} className=" " target="_blank"> 
+          <Button className="project-button" href={prop.repo} target="_blank"> 
               Github Repository 
           </Button>
-          <Button variant="secondary" onClick={handleClose}>
+          <Button className="close-button" onClick={handleClose}>
               Close
           </Button>
           </Modal.Body>
