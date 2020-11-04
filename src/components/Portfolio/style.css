@@ -1,11 +1,80 @@
-div .about-link {
-  color: red !important;
+.work-title {
+    background: #051238;
+    color: white;
+    margin-top: 0px;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    border-left: #6A7696 solid 5px;
+    border-right: #6A7696 solid 5px;
+    border-top: none;
+    border-bottom: #6A7696 solid 5px;
+    cursor: pointer;
+}
+.work-title:hover {
+  color: #6A7696;
+}
+.work-title p{
+  font-family: "Spartan", sans-serif;
+  font-weight: 600;
+  padding-top: 15px;
+  line-height: 0px;
+  clear: both;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.work-title a{
+  line-height: 10px;
+  font-size: 12px;
+  text-align: center;
+  cursor: pointer;
+}
+.row {
+  text-align: center;
+  margin-top: -20px;
+  margin-bottom: 50px;
 }
 
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-    display: block;
-    margin-bottom: 20px;
-  }
+.work-items {
+  margin-bottom: 20px;  
 }
+
+div div .modal-content  {
+  position: relative;
+  height: 400px;
+}
+
+.modal-content .card-img {
+  width: 200px;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  object-fit: cover;
+}
+.modal-content .modal-body {
+  position: absolute;
+  top: 0px;
+  left: 200px;
+}
+
+.modal-content .modal-title  {
+  font-family: "Spartan", sans-serif;
+  font-weight: 600;
+}
+
+.desc {
+  color: #051238;
+}
+
+.work-imagebox {
+position: relative;
+text-align: center;
+color: white;
+border-left: #6A7696 solid 5px;
+border-right: #6A7696 solid 5px;
+border-top: #6A7696 solid 5px;
+border-bottom: none;
+
+}
+

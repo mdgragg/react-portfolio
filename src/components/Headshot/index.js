@@ -12,18 +12,18 @@ function Headshot() {
        
           <Row>
           <Col md={12}>
-            
+       
               <a href="https://www.linkedin.com/in/mdgragg/" target="new">
-                <img class="icons" src="images/icons/linkedin.png" alt="linkedin" />
+                <img class="icons" src="../../../assets/icons/linkedin.png" alt="linkedin" />
               </a>
               <a href="https://github.com/mdgragg" target="new">
-                <img class="icons" src="images/icons/github.png" alt="github" />
+                <img class="icons" src="../../../assets/icons/github.png" alt="github" />
               </a>
               <a href="mailto:contact@michaeldgragg.com" target="new">
-                <img class="icons" src="images/icons/email.png" alt="email" />
+                <img class="icons" src="../../../assets/icons/email.png" alt="email" />
               </a>
               <a href="https://www.facebook.com/mgragg3" target="new">
-                <img class="icons" src="images/icons/facebook.png" alt="facebook" />
+                <img class="icons" src="../../../assets/icons/facebook.png" alt="facebook" />
               </a>
             </Col>
             </Row>

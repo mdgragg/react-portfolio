@@ -2,11 +2,6 @@
     background: #6A7696;
     width:100%;
     height: 100%;
-    position: absolute;
-  }
-  .background {
-    background: #6A7696;
-    width:100%;
-    height: 100%;
-    position: absolute;
+    object-fit: cover;
+
   }

@@ -1,44 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Dinner and a Show",
-        "image": "./img/dinner-and-a-show.png",
-        "deployed": "https://jdouglasr.github.io/Dinner-and-a-show/",
-        "repo": "https://github.com/JDouglasR/Dinner-and-a-show"
+        "name": "Groceri Emoji",
+        "image": "../../../assets/portfolio/groceri-emoji.png",
+        "deployed": "https://floating-eyrie-50408.herokuapp.com/index",
+        "repo": "https://github.com/mdgragg/groceri-emoji",
+        "description": "An application to simplify online grocery shopping with the click of an emoji."
       },
     {
         "id": 2,
-        "name": "Work Day Scheduler",
-        "image": "./img/workday-img.png",
-        "deployed": "https://jdouglasr.github.io/Work-Day-Scheduler/",
-        "repo": "https://github.com/JDouglasR/Work-Day-Scheduler"
+        "name": "Eat Da Burger!",
+        "image": "../../../assets/portfolio/burger.png",
+        "deployed": "https://burgers-mdg.herokuapp.com/",
+        "repo": "https://github.com/mdgragg/burger",
+        "description": "Eat Da Burger! is an application that lets users input the names of burgers they'd like to eat/have already eaten."
       },
     {
         "id": 3,
-        "name": "Weather Dashboard",
-        "image": "./img/Weather-Dashboard.png",
-        "deployed": "https://jdouglasr.github.io/Weather-Dashboard/",
-        "repo": "https://github.com/JDouglasR/Weather-Dashboard"
+        "name": "Budget Tracker",
+        "image": "../../../assets/portfolio/burger.png",
+        "deployed": "https://budget-tracker-mdg.herokuapp.com/",
+        "repo": "https://github.com/mdgragg/budget-tracker",
+        "description": "An application that allows the user to keep track of there their budget whether they're online or offline."
       },
     {
         "id": 4,
-        "name": "Code Quiz",
-        "image": "./img/Code-Quiz-index.png",
-        "deployed": "https://jdouglasr.github.io/Code-Quiz/",
-        "repo": "https://github.com/JDouglasR/Code-Quiz"
+        "name": "Weather Dashboard",
+        "image": "../../../assets/portfolio/burger.png",
+        "deployed": "https://mdgragg.github.io/weather-dashboard/",
+        "repo": "https://github.com/mdgragg/weather-dashboard",
+        "description": "An application using Open Weather API, allowing users to search city's current weather information and forecasts for the next 5 days."
       },
     {
         "id": 5,
-        "name": "Password Generator",
-        "image": "./img/pg-index-page.png",
-        "deployed": "https://jdouglasr.github.io/Password_Generator/",
-        "repo": "https://github.com/JDouglasR/Password_Generator"
+        "name": "Job Search",
+        "image": "../../../assets/portfolio/burger.png",
+        "deployed": "https://mdgragg.github.io/Job-Search/",
+        "repo": "https://github.com/mdgragg/Job-Search",
+        "description": "As a recent graduate of a coding bootcamp, users will need an app that will successfully help them to gain employment."
       },
     {
         "id": 6,
-        "name": "Note Taker",
-        "image": "./img/note.png",
-        "deployed": "https://cw-notes-taker.herokuapp.com/",
-        "repo": "https://github.com/JDouglasR/Note-Taker"
+        "name": "Fitness Tracker",
+        "image": "../../../assets/portfolio/burger.png",
+        "deployed": "https://fitness-tracker-mdg.herokuapp.com/",
+        "repo": "https://github.com/mdgragg/fitness-tracker",
+        "description": "An application to be able to view, create, and track daily workouts. Users are also able to track the name, type, weight, sets, reps, and duration of the exercise."
       }
 ]
