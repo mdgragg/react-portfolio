@@ -5,7 +5,7 @@
         "image": "../../../assets/portfolio/emoji.png",
         "deployed": "https://floating-eyrie-50408.herokuapp.com/index",
         "repo": "https://github.com/mdgragg/groceri-emoji",
-        "description": "An application to simplify online grocery shopping with the click of an emoji."
+        "description": "Groceri Emoji is an application to simplify online grocery shopping with the click of an emoji."
       },
     {
         "id": 2,
@@ -37,7 +37,7 @@
         "image": "../../../assets/portfolio/jobs.png",
         "deployed": "https://mdgragg.github.io/Job-Search/",
         "repo": "https://github.com/mdgragg/Job-Search",
-        "description": "As a recent graduate of a coding bootcamp, users will need an app that will successfully help them to gain employment."
+        "description": "An application to search for jobs by location, using both Muse and GitHub Jobs APIs."
       },
     {
         "id": 6,
