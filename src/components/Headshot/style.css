@@ -1,0 +1,16 @@
+
+  .headshot {
+    max-width: 310px;
+    width: 100%;
+    margin: auto;
+    border: #6A7696 solid 7px;
+    margin-top: -50px;
+  }
+  .icons { 
+      width: 40px;
+      padding: 5px;
+      clear:both;
+  }
+  .icons:hover  {
+      opacity: 50%;
+  }

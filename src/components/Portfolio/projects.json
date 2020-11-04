@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Dinner and a Show",
+        "image": "./img/dinner-and-a-show.png",
+        "deployed": "https://jdouglasr.github.io/Dinner-and-a-show/",
+        "repo": "https://github.com/JDouglasR/Dinner-and-a-show"
+      },
+    {
+        "id": 2,
+        "name": "Work Day Scheduler",
+        "image": "./img/workday-img.png",
+        "deployed": "https://jdouglasr.github.io/Work-Day-Scheduler/",
+        "repo": "https://github.com/JDouglasR/Work-Day-Scheduler"
+      },
+    {
+        "id": 3,
+        "name": "Weather Dashboard",
+        "image": "./img/Weather-Dashboard.png",
+        "deployed": "https://jdouglasr.github.io/Weather-Dashboard/",
+        "repo": "https://github.com/JDouglasR/Weather-Dashboard"
+      },
+    {
+        "id": 4,
+        "name": "Code Quiz",
+        "image": "./img/Code-Quiz-index.png",
+        "deployed": "https://jdouglasr.github.io/Code-Quiz/",
+        "repo": "https://github.com/JDouglasR/Code-Quiz"
+      },
+    {
+        "id": 5,
+        "name": "Password Generator",
+        "image": "./img/pg-index-page.png",
+        "deployed": "https://jdouglasr.github.io/Password_Generator/",
+        "repo": "https://github.com/JDouglasR/Password_Generator"
+      },
+    {
+        "id": 6,
+        "name": "Note Taker",
+        "image": "./img/note.png",
+        "deployed": "https://cw-notes-taker.herokuapp.com/",
+        "repo": "https://github.com/JDouglasR/Note-Taker"
+      }
+]
