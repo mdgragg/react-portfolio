@@ -78,3 +78,19 @@ border-bottom: none;
 
 }
 
+@media only screen and (max-width: 600px) {
+  .modal-content .card-img {
+    width: 100px;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    object-fit: cover;
+  }
+  .modal-content .modal-body {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+  }
+}
+
