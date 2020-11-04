@@ -27,8 +27,7 @@ function About() {
             an even deeper passion for being the one that creates them. My
             background in branding, visual design and graphics development
             allow me to take a competitive approach with any project. I’m
-            constantly learning new design techniques, trends and tools. So,
-            that’s a little bit about me. Click around and check out my work.
+            constantly learning new design techniques, trends and tools. 
             </p>
        
           </Col>
