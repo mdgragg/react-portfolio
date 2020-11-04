@@ -1,7 +1,7 @@
-.background {
+  .background {
     background: #6A7696;
     width:100%;
     height: 100%;
     object-fit: cover;
-
+    min-height: 850px;
   }
