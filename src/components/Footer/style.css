@@ -12,3 +12,15 @@ color: #6A7696;
 text-align: center;
 margin-top: 15px;
 }
+footer a {
+  font-family: "Spartan", sans-serif;
+  font-weight: 300;
+  font-size: small;
+  color: #6A7696;
+  text-align: center;
+  margin-top: 15px;
+  }
+footer a:hover {
+  color: white;
+  text-decoration: none;
+  }

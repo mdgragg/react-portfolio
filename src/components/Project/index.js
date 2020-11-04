@@ -24,12 +24,9 @@ function Project(prop) {
       <CardImg src={prop.image}/>
         <Modal.Body closeButton>
           <Modal.Title>  {prop.name}</Modal.Title>
-       
+      
+            <p className="desc">{prop.description}</p>
         
-        
-        <p className="desc">{prop.description}</p>
-        
-       
           <Button className="project-button" href={prop.deployed} target="_blank" >
               Site Link
           </Button>

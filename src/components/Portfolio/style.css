@@ -29,9 +29,9 @@
   text-align: center;
   cursor: pointer;
 }
-.row {
+.project-row {
   text-align: center;
-  margin-top: -20px;
+  margin-top: -50px;
   margin-bottom: 50px;
 }
 
@@ -83,6 +83,7 @@ div .project-button {
   margin: 5px 10px 5px 0px;
   cursor: pointer;
   border: none;
+
 }
 div .project-button:hover {
   background: #051238;

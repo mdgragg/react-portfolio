@@ -6,7 +6,11 @@ function Footer() {
     <React.Fragment>
       <footer className="fixed-bottom justify-content-center">
         <div>
-          <p>© Copyright Michael Gragg 2020</p>
+          <p>© Copyright Michael Gragg 2020 | 
+          <a href="mailto:contact@michaeldgragg.com" target="new">
+          &nbsp; contact@michaeldgragg.com
+          </a>
+          </p>
         </div>
       </footer>
     </React.Fragment>

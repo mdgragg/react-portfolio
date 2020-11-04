@@ -14,7 +14,7 @@ function Portfolio() {
       <Container>
         <Row>
           <Col md={12}>
-            <Row className="row">
+            <Row className="project-row">
               {projects.map((project) => (
                 <Project
                   key={project.id}
