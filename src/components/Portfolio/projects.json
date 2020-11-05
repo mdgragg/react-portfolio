@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Groceri Emoji",
-        "image": "../../../assets/portfolio/emoji.png",
+        "image": "react-portfolio/assets/portfolio/emoji.png",
         "deployed": "https://floating-eyrie-50408.herokuapp.com/index",
         "repo": "https://github.com/mdgragg/groceri-emoji",
         "description": "Groceri Emoji is an application to simplify online grocery shopping with the click of an emoji."
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Eat Da Burger!",
-        "image": "../../../assets/portfolio/burger.png",
+        "image": "react-portfolio/assets/portfolio/burger.png",
         "deployed": "https://burgers-mdg.herokuapp.com/",
         "repo": "https://github.com/mdgragg/burger",
         "description": "Eat Da Burger! is an application that lets users input the names of burgers they'd like to eat/have already eaten."
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Budget Tracker",
-        "image": "../../../assets/portfolio/budget.png",
+        "image": "react-portfolio/assets/portfolio/budget.png",
         "deployed": "https://budget-tracker-mdg.herokuapp.com/",
         "repo": "https://github.com/mdgragg/budget-tracker",
         "description": "An application that allows the user to keep track of there their budget whether they're online or offline."
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "../../../assets/portfolio/weather.png",
+        "image": "react-portfolio/assets/portfolio/weather.png",
         "deployed": "https://mdgragg.github.io/weather-dashboard/",
         "repo": "https://github.com/mdgragg/weather-dashboard",
         "description": "An application using Open Weather API, allowing users to search city's current weather information and forecasts for the next 5 days."
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Job Search",
-        "image": "../../../assets/portfolio/jobs.png",
+        "image": "react-portfolio/assets/portfolio/jobs.png",
         "deployed": "https://mdgragg.github.io/Job-Search/",
         "repo": "https://github.com/mdgragg/Job-Search",
         "description": "An application to search for jobs by location, using both Muse and GitHub Jobs APIs."
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Fitness Tracker",
-        "image": "../../../assets/portfolio/fitness.png",
+        "image": "react-portfolio/assets/portfolio/fitness.png",
         "deployed": "https://fitness-tracker-mdg.herokuapp.com/",
         "repo": "https://github.com/mdgragg/fitness-tracker",
         "description": "An application to be able to view, create, and track daily workouts. Users are also able to track the name, type, weight, sets, reps, and duration of the exercise."

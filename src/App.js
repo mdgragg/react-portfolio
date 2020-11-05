@@ -12,7 +12,7 @@ class App extends Component {
       <BrowserRouter basename={"/"}>
           <Navigation />
           <Switch>
-            <Route path="/" component={Home} exact />
+            <Route path="/react-portfolio" component={Home} exact />
             <Route path="/portfolio" component={Portfolio} />
           </Switch>
           <Footer />
