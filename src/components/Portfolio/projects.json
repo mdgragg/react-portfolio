@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "GO SEE",
-      "image": "react-portfolio/assets/portfolio/jobs.png",
+      "image": "react-portfolio/assets/portfolio/gosee.png",
       "deployed": "https://go-see.herokuapp.com/",
       "repo": "https://github.com/mdgragg/GoSEE",
       "description": "A social traveling app that allows users from around the world to meet and talk about locations to travel to."
