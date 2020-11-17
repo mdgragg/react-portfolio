@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "name": "Job Search",
+      "name": "GO SEE",
       "image": "react-portfolio/assets/portfolio/jobs.png",
       "deployed": "https://go-see.herokuapp.com/",
       "repo": "https://github.com/mdgragg/GoSEE",
