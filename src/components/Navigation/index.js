@@ -25,7 +25,7 @@ function Navigation() {
           Portfolio
         </Nav.Link>
 
-        <a className="nav-link nav-item" href="react-portfolio/Gragg-Resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a className="nav-link nav-item" href="/Gragg-Resume.pdf" target="_blank" rel="noopener noreferrer">
           Resume
         </a>
 
