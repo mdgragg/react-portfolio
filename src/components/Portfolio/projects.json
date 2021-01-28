@@ -46,13 +46,4 @@
         "repo": "https://github.com/mdgragg/weather-dashboard",
         "description": "An application using Open Weather API, allowing users to search city's current weather information and forecasts for the next 5 days."
       }
-    //   ,
-    // {
-    //     "id": 6,
-    //     "name": "Fitness Tracker",
-    //     "image": "react-portfolio/assets/portfolio/fitness.png",
-    //     "deployed": "https://fitness-tracker-mdg.herokuapp.com/",
-    //     "repo": "https://github.com/mdgragg/fitness-tracker",
-    //     "description": "An application to be able to view, create, and track daily workouts. Users are also able to track the name, type, weight, sets, reps, and duration of the exercise."
-    //   }
 ]
