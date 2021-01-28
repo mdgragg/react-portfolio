@@ -25,6 +25,10 @@ function Navigation() {
           Portfolio
         </Nav.Link>
 
+        <Nav.Link as={Link} to="/skills" className="nav-item" href="skills page">
+          Skills
+        </Nav.Link>
+
         <a className="nav-link nav-item" href="/Gragg-Resume.pdf" target="_blank" rel="noopener noreferrer">
           Resume
         </a>

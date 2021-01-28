@@ -4,7 +4,8 @@
       "name": "MetalForming Magazine",
       "image": "react-portfolio/assets/portfolio/metalforming.png",
       "deployed": "https://www.metalformingmagazine.com/",
-      "description": "Monthly Magazine for readers in facilities that add value to sheetmetal. Designed 25 different layouts for 60+ pages of website content, turning a desktop-only website into a fully responsive site, while also including descriptive titles, image names, and meta tags for improving SEO."
+      "repo": "null",
+      "description": "Monthly Magazine for readers in facilities that add value to sheetmetal. Redisigned a desktop-only website into a fully responsive site, while also including descriptive titles, image names, and meta tags for improving SEO."
     },
     {
       "id": 2,
@@ -47,3 +48,4 @@
         "description": "An application using Open Weather API, allowing users to search city's current weather information and forecasts for the next 5 days."
       }
 ]
+

@@ -107,6 +107,11 @@ div .close-button:hover {
   opacity: .7;
 }
 
+a[href="null"] {
+  display: none;
+}
+
+
 @media only screen and (max-width: 600px) {
   .modal-content .card-img {
     width: 100px;
