@@ -1,6 +1,13 @@
 [
     {
       "id": 1,
+      "name": "MetalForming Magazine",
+      "image": "react-portfolio/assets/portfolio/metalforming.png",
+      "deployed": "https://www.metalformingmagazine.com/",
+      "description": "Monthly Magazine for readers in facilities that add value to sheetmetal. Designed 25 different layouts for 60+ pages of website content, turning a desktop-only website into a fully responsive site, while also including descriptive titles, image names, and meta tags for improving SEO."
+    },
+    {
+      "id": 2,
       "name": "GO SEE",
       "image": "react-portfolio/assets/portfolio/gosee.png",
       "deployed": "https://go-see.herokuapp.com/",
@@ -8,7 +15,7 @@
       "description": "A social traveling app that allows users from around the world to meet and talk about locations to travel to."
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Groceri Emoji",
         "image": "react-portfolio/assets/portfolio/emoji.png",
         "deployed": "https://floating-eyrie-50408.herokuapp.com/index",
@@ -16,7 +23,7 @@
         "description": "Groceri Emoji is an application to simplify online grocery shopping with the click of an emoji."
       },
     {
-        "id": 3,
+        "id": 4,
         "name": "Eat Da Burger!",
         "image": "react-portfolio/assets/portfolio/burger.png",
         "deployed": "https://burgers-mdg.herokuapp.com/",
@@ -24,7 +31,7 @@
         "description": "Eat Da Burger! is an application that lets users input the names of burgers they'd like to eat/have already eaten."
       },
     {
-        "id": 4,
+        "id": 5,
         "name": "Budget Tracker",
         "image": "react-portfolio/assets/portfolio/budget.png",
         "deployed": "https://budget-tracker-mdg.herokuapp.com/",
@@ -32,19 +39,20 @@
         "description": "An application that allows the user to keep track of there their budget whether they're online or offline."
       },
     {
-        "id": 5,
+        "id": 6,
         "name": "Weather Dashboard",
         "image": "react-portfolio/assets/portfolio/weather.png",
         "deployed": "https://mdgragg.github.io/weather-dashboard/",
         "repo": "https://github.com/mdgragg/weather-dashboard",
         "description": "An application using Open Weather API, allowing users to search city's current weather information and forecasts for the next 5 days."
-      },
-    {
-        "id": 6,
-        "name": "Fitness Tracker",
-        "image": "react-portfolio/assets/portfolio/fitness.png",
-        "deployed": "https://fitness-tracker-mdg.herokuapp.com/",
-        "repo": "https://github.com/mdgragg/fitness-tracker",
-        "description": "An application to be able to view, create, and track daily workouts. Users are also able to track the name, type, weight, sets, reps, and duration of the exercise."
       }
+    //   ,
+    // {
+    //     "id": 6,
+    //     "name": "Fitness Tracker",
+    //     "image": "react-portfolio/assets/portfolio/fitness.png",
+    //     "deployed": "https://fitness-tracker-mdg.herokuapp.com/",
+    //     "repo": "https://github.com/mdgragg/fitness-tracker",
+    //     "description": "An application to be able to view, create, and track daily workouts. Users are also able to track the name, type, weight, sets, reps, and duration of the exercise."
+    //   }
 ]
