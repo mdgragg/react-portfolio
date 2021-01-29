@@ -5,9 +5,32 @@
 }
 
 .skills-row .col-md-3 {
-  background: red;
-  margin-bottom: 10px;
-  border: 5px solid white;
+  background: white;
+  border: 3px solid #6A7696;
+  border-top: 6px solid #6A7696;
+  border-bottom: 0px solid #6A7696;
+  padding: 15px;
+}
+
+.col-md-12 .row .col-md-3 .svg-inline--fa {
+  font-size: 70px;
+  width: 100%;
+  padding: 10px;
+  color: #6A7696;
+}
+
+.col-md-12 .row .col-md-3 i {
+  font-size: 50px;
+  color: #6A7696;
+  display: block;
+  margin: auto;
+}
+
+.col-md-12 .row .col-md-3 .skills-icon {
+  padding: 10px;
+  margin: auto;
+  width: 65px;
+  display: block;
 }
 
 
